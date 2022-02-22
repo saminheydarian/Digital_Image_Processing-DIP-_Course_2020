@@ -1,1 +1,1 @@
-# Digital_Image_Processing-DIP-_Course_2020
+# Digital_Image_Processing_Course_2020
